@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard – Information Visualization Project
+# Sales Performance Dashboard – Information Visualization Project
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-blue?logo=microsoft-excel)
 ![PowerPoint](https://img.shields.io/badge/Slides-PowerPoint-orange?logo=microsoft-powerpoint)
